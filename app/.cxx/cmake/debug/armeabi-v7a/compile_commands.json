@@ -1,0 +1,31 @@
+[
+{
+  "directory": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/ffmpeg/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -L/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/ffmpeg/libs/armeabi-v7a -L/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/rtmp/libs/armeabi-v7a -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/AudioChannel.cpp.o -c /Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/AudioChannel.cpp",
+  "file": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/AudioChannel.cpp"
+},
+
+{
+  "directory": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/ffmpeg/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -L/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/ffmpeg/libs/armeabi-v7a -L/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/rtmp/libs/armeabi-v7a -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/JNICallbakcHelper.cpp.o -c /Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/JNICallbakcHelper.cpp",
+  "file": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/JNICallbakcHelper.cpp"
+},
+
+{
+  "directory": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/ffmpeg/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -L/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/ffmpeg/libs/armeabi-v7a -L/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/rtmp/libs/armeabi-v7a -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/VideoChannel.cpp.o -c /Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/VideoChannel.cpp",
+  "file": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/VideoChannel.cpp"
+},
+
+{
+  "directory": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/ffmpeg/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -L/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/ffmpeg/libs/armeabi-v7a -L/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/rtmp/libs/armeabi-v7a -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/native-lib.cpp.o -c /Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/native-lib.cpp"
+},
+
+{
+  "directory": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS -I/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/ffmpeg/include  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -L/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/ffmpeg/libs/armeabi-v7a -L/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/rtmp/libs/armeabi-v7a -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/native-lib.dir/zrwPlayer.cpp.o -c /Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/zrwPlayer.cpp",
+  "file": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/zrwPlayer.cpp"
+}
+]

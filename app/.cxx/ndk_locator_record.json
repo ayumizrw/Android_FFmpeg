@@ -1,0 +1,41 @@
+{
+  "ndkFolder": "/Users/test/Library/Android/sdk/ndk/22.1.7171670",
+  "messages": [
+    {
+      "level": "INFO",
+      "message": "android.ndkVersion from module build.gradle is not set"
+    },
+    {
+      "level": "INFO",
+      "message": "ndk.dir in local.properties is /Users/test/Library/Android/sdk/ndk/22.1.7171670"
+    },
+    {
+      "level": "INFO",
+      "message": "ANDROID_NDK_HOME environment variable is not set"
+    },
+    {
+      "level": "INFO",
+      "message": "sdkFolder is /Users/test/Library/Android/sdk"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/test/Library/Android/sdk/ndk/22.1.7171670 by ndk.dir"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/test/Library/Android/sdk/ndk-bundle in SDK ndk-bundle folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/test/Library/Android/sdk/ndk/25.1.8937393 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Considering /Users/test/Library/Android/sdk/ndk/22.1.7171670 in SDK ndk folder"
+    },
+    {
+      "level": "INFO",
+      "message": "Found requested ndk.dir (/Users/test/Library/Android/sdk/ndk/22.1.7171670) which has version 22.1.7171670"
+    }
+  ]
+}

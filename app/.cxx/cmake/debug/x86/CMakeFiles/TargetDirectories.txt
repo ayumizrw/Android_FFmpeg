@@ -1,0 +1,3 @@
+D:/NDK/CoursewareCreate/ndk_14/project/ndk14_code/app/.cxx/cmake/debug/x86/CMakeFiles/native-lib.dir
+D:/NDK/CoursewareCreate/ndk_14/project/ndk14_code/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+D:/NDK/CoursewareCreate/ndk_14/project/ndk14_code/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

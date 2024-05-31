@@ -1,0 +1,63 @@
+{
+  "stringTable": {
+    "0": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -I/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/ffmpeg/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -L/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/ffmpeg/libs/armeabi-v7a -L/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/rtmp/libs/armeabi-v7a -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/test/Library/Android/sdk/ndk/22.1.7171670/build/cmake/android.toolchain.cmake",
+    "/Users/test/Library/Android/sdk/ndk/22.1.7171670/build/cmake/platforms.cmake",
+    "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/CMakeLists.txt",
+    "/Users/test/Library/Android/sdk/ndk/22.1.7171670/build/cmake/compiler_id.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/test/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/test/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/test/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/.cxx/cmake/debug/armeabi-v7a\" native-lib",
+      "buildType": "debug",
+      "toolchain": "1340870693",
+      "abi": "armeabi-v7a",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/AudioChannel.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/JNICallbakcHelper.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/VideoChannel.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/native-lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/src/main/cpp/zrwPlayer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "1340870693": {
+      "cppCompilerExecutable": "/Users/test/Library/Android/sdk/ndk/22.1.7171670/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

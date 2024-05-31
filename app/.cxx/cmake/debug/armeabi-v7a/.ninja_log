@@ -1,0 +1,10 @@
+# ninja log v5
+1	397	1717126984	CMakeFiles/native-lib.dir/JNICallbakcHelper.cpp.o	312a6f5c06c6d1eb
+2	974	1717126984	CMakeFiles/native-lib.dir/zrwPlayer.cpp.o	6f72eb5bca790f11
+2	975	1717126984	CMakeFiles/native-lib.dir/native-lib.cpp.o	db9b5e417838fc48
+1	998	1717126984	CMakeFiles/native-lib.dir/VideoChannel.cpp.o	2f42a42e4e459290
+0	1030	1717126984	CMakeFiles/native-lib.dir/AudioChannel.cpp.o	c7541732abb6dd65
+1030	1937	1717126985	/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	78fd1cd1b001af13
+6	1366	1717127731	CMakeFiles/native-lib.dir/VideoChannel.cpp.o	2f42a42e4e459290
+4	1366	1717127731	CMakeFiles/native-lib.dir/AudioChannel.cpp.o	c7541732abb6dd65
+1366	2426	1717127732	/Users/test/Downloads/资料/源码大全/ndk27_ffmpeg/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	78fd1cd1b001af13
